@@ -1,3 +1,5 @@
+/* Program to calculate the factorial of a user input number */
+
 package javacourse;
 
 import java.io.*; 
@@ -11,7 +13,7 @@ class Factorial{
   int a= Integer.parseInt(object.readLine());
   double fact= 1;
   System.out.println("Factorial of " +a+ ":");
-  for (int i= 1; i<=a; i++){
+  for (int i= 1; i<=a; i++){  					//loop to calculate a!
   fact=fact*i;
   }
   System.out.println(fact);

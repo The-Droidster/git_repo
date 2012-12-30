@@ -1,3 +1,5 @@
+/* Program to display a simple HelloWorld message to the user */
+
 package javacourse;
 
 public class HelloWorld {
