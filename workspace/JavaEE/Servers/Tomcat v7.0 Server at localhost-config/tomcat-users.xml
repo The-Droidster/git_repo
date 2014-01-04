@@ -15,7 +15,6 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 --><tomcat-users>
-<user name="admin" password="admin" roles="admin-gui,manager-gui"/>
 <!--
   NOTE:  By default, no user is included in the "manager-gui" role required
   to operate the "/manager/html" web application.  If you wish to use this app,
@@ -33,4 +32,8 @@
   <user username="both" password="tomcat" roles="tomcat,role1"/>
   <user username="role1" password="tomcat" roles="role1"/>
 -->
+
+<role rolename="manager-gui"/>
+<user password="saurocks" roles="manager-gui" username="admin"/>
+
 </tomcat-users>
