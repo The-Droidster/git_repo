@@ -19,5 +19,6 @@ MinGW 4.6.2
 Android SDK Platform-tools Revision 18.0.1
 Android SDK Tools Revision 22.2.1
 Android API 18 (Android 4.3)
+XAMP for PHP installation, Apache and MySQL
  
 README will be constantly updated! */
