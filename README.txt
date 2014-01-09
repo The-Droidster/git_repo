@@ -1,7 +1,7 @@
 /* git_repo = Default repository for all my programming courses.
  ===============================================================
 
-Local Repo/Directory = git_repo (Master)
+Local Repo/Directory = git_repo (Master)/gh-pages (Branch) http://the-droidster.github.io/git_repo/
 ====================
 Machine Setup = Windows 8 64-bit OS, 4GB RAM, 500GB HDD, Intel HD 4000 + AMD Radeon HD 7670M Dual boot with Ubuntu 12.10
 =============
